@@ -2,7 +2,7 @@
 
 package Seminar2;
 
-public class task01 {
+public class task_01 {
     public static void main(String[] args) {
         palindrome("NOON");
     }
